@@ -1,0 +1,17 @@
+{
+    "name": "Shep Shep",
+    "id": "io.github.shep-shep.vpm",
+    "url": "https://shep-shep.github.io/vpm/index.json",
+    "author": {
+        "name": "Shep Shep",
+        "url": "https://github.com/Shep-Shep"
+    },
+    "description": "Free tools for VRChat creators by Shep Shep.",
+    "infoLink": {
+        "url": "https://github.com/Shep-Shep/vpm",
+        "text": "View on GitHub"
+    },
+    "githubRepos": [
+        "Shep-Shep/audiolink-desktop-audio"
+    ]
+}
